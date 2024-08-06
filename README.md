@@ -1,2 +1,2 @@
-# praksa_c-react
-ljetna akademija incubis
+# akademija2024
+ljetna akademija incubis, c# + react
