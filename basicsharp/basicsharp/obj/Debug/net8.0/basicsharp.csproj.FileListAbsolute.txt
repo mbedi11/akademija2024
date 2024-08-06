@@ -1,0 +1,14 @@
+C:\Users\mihae\source\repos\basicsharp\basicsharp\bin\Debug\net8.0\basicsharp.exe
+C:\Users\mihae\source\repos\basicsharp\basicsharp\bin\Debug\net8.0\basicsharp.deps.json
+C:\Users\mihae\source\repos\basicsharp\basicsharp\bin\Debug\net8.0\basicsharp.runtimeconfig.json
+C:\Users\mihae\source\repos\basicsharp\basicsharp\bin\Debug\net8.0\basicsharp.dll
+C:\Users\mihae\source\repos\basicsharp\basicsharp\bin\Debug\net8.0\basicsharp.pdb
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.AssemblyInfoInputs.cache
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.AssemblyInfo.cs
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.csproj.CoreCompileInputs.cache
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.dll
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\refint\basicsharp.dll
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.pdb
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\basicsharp.genruntimeconfig.cache
+C:\Users\mihae\source\repos\basicsharp\basicsharp\obj\Debug\net8.0\ref\basicsharp.dll
